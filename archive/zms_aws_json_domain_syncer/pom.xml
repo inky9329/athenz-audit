@@ -10,8 +10,8 @@
   <description>Athenz ZMS AWS Json Domain Syncer</description>
 
   <properties>
-    <jackson.version>2.13.3</jackson.version>
-    <athenz.version>1.11.4</athenz.version>
+    <jackson.version>2.15.0</jackson.version>
+    <athenz.version>1.11.32</athenz.version>
     <aws.version>1.12.246</aws.version>
     <testng.version>7.6.0</testng.version>
     <slf4j.version>1.7.36</slf4j.version>
