@@ -8,7 +8,7 @@ FROM rdl-athenz-go-model AS rdl-go-model
 
 FROM rdl-athenz-java-client AS rdl-java-client
 
-FROM maven:3.8.6-eclipse-temurin-11-alpine AS mvn
+FROM maven:3.9.9-eclipse-temurin-11-alpine AS mvn
 # date -u +'%Y-%m-%dT%H:%M:%SZ'
 ARG BUILD_DATE
 # git rev-parse --short HEAD
