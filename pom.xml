@@ -91,7 +91,7 @@
     <jjwt.version>0.11.5</jjwt.version>
     <jmockit.version>1.49</jmockit.version>
     <logback.client.version>1.2.11</logback.client.version>
-    <logback.server.version>1.4.4</logback.server.version>
+    <logback.server.version>1.5.14</logback.server.version>
     <maven-assembly-plugin.version>3.3.0</maven-assembly-plugin.version>
     <maven-compiler-plugin.version>3.10.1</maven-compiler-plugin.version>
     <maven-checkstyle-plugin.version>3.1.2</maven-checkstyle-plugin.version>
