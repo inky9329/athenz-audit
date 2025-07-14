@@ -101,7 +101,7 @@
         "@denali-design/react": "1.0.0-alpha.1",
         "cytoscape": "3.21.0",
         "cytoscape-dagre": "2.4.0",
-        "react-flow-renderer": "9.7.4"
+        "react-flow-renderer": "10.3.17"
     },
     "devDependencies": {
         "@babel/core": "7.17.8",
