@@ -63,7 +63,7 @@
         "downshift": "6.1.7",
         "emotion": "11.0.0",
         "express": "4.17.3",
-        "fetchr": "0.5.45",
+        "fetchr": "0.7.0",
         "flatpickr": "4.6.11",
         "helmet": "5.0.2",
         "immer": "9.0.15",
